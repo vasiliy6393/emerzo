@@ -1,3 +1,8 @@
+The application was created with pure enthusiasm and in leisure time.
+
+Dependences:
+x11-misc/gtkdialog
+
 Install:
 mkdir /emerzo
 cd /emerzo
@@ -5,3 +10,9 @@ tar xvf /path/to/emerzo.tar ./
 
 Launch:
 /emerzo/main.sh
+
+The next plans:
+ * Fix the known bugs (Clear button)
+ * Install in the user-selected directory
+ * Write an installation script
+ * Perhaps, change of design
