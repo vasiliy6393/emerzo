@@ -1,0 +1,7 @@
+Install:
+mkdir /emerzo
+cd /emerzo
+tar xvf /path/to/emerzo.tar ./
+
+Launch:
+/emerzo/main.sh
