@@ -1,4 +1,5 @@
 Dependences:
+app-misc/screen
 x11-misc/gtkdialog
 
 Install:
