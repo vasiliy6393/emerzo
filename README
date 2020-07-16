@@ -12,7 +12,6 @@ Launch:
 
 The next plans:
  * Find and fix bugs
- * Create configuration file in /etc/
  * Install in the user-selected directory (or merge all scripts into one)
  * Create an installation script
  * Perhaps, change of design
