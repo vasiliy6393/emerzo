@@ -1,9 +1,15 @@
+Author:
+Vasiliy Pogoreliy, vasiliy.6393@gmail.com
+
 Dependences:
-app-misc/screen
 x11-misc/gtkdialog
+app-misc/screen
+
+Optional dependences:
+gnome-extra/zenity
 
 Install:
-mkdir /emerzo
+mkdir /emerzo (if you change this path, you must change the scripts)
 cd /emerzo
 tar xvf /path/to/emerzo.tar ./
 
@@ -11,10 +17,5 @@ Launch:
 /emerzo/main.sh
 
 The next plans:
- * Find and fix bugs
  * Install in the user-selected directory (or merge all scripts into one)
  * Create an installation script
- * Perhaps, change of design
-
-Contacts:
-vasiliy.6393@gmail.com (Vasiliy Pogoreliy)
