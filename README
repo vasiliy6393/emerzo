@@ -2,6 +2,7 @@ Author:
 Vasiliy Pogoreliy, vasiliy.6393@gmail.com
 
 Dependences:
+app-shells/bash
 x11-misc/gtkdialog
 app-misc/screen
 
