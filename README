@@ -3,6 +3,7 @@ Vasiliy Pogoreliy, vasiliy.6393@gmail.com
 
 Dependences:
 app-shells/bash
+app-admin/sudo (or launch as root)
 x11-misc/gtkdialog
 app-misc/screen
 
