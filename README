@@ -11,8 +11,10 @@ gnome-extra/zenity
 app-admin/sudo (or launch as root)
 
 Install:
-cd /bin
+cd /some_dir
 tar xvf /path/to/emerzo.tar.gz ./
 
 Launch:
-/bin/emerzo.sh
+/some_dir/emerzo.sh
+
+You can also rename the script as needed.
