@@ -10,6 +10,7 @@ x11-misc/gtkdialog
 app-misc/screen
 
 Optional dependences:
+x11-misc/wmctrl (for change of window title)
 gnome-extra/zenity
 app-admin/sudo (or launch as root)
 
