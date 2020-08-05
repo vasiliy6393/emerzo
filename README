@@ -6,13 +6,13 @@ free time and programming brings some pleasure.
 
 Dependences:
 app-shells/bash
-x11-misc/gtkdialog
 app-misc/screen
+x11-misc/gtkdialog
 
 Optional dependences:
+app-admin/sudo (or launch as root)
 x11-misc/wmctrl (for change of window title)
 gnome-extra/zenity
-app-admin/sudo (or launch as root)
 
 Install:
 cd /some_dir
