@@ -1,18 +1,24 @@
 Author:
 Vasiliy Pogoreliy, vasiliy.6393@gmail.com
 
-The application is created in order to take
-free time and programming brings some pleasure.
+The application is written for myself, but if you
+have suggestions, I may issue a version taking into
+account your wishes. The application was tested on only
+one PC, but should work on all Gentoo-based distributions.
+It is important only to satisfy dependencies.
 
-Dependences:
+Dependencies:
 app-shells/bash
 app-misc/screen
 x11-misc/gtkdialog
 
-Optional dependences:
-app-admin/sudo (or launch as root)
-x11-misc/wmctrl (for change of window title)
+Optional dependencies:
 gnome-extra/zenity
+app-admin/sudo (or launch as root)
+x11-misc/wmctrl and x11-apps/xinput (for change of window title)
+x11-misc/kdocker (for rolling into a system tray)
+                 If you do not want to use system tray
+                 change Source code.
 
 Install:
 cd /some_dir
