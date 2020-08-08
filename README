@@ -1,5 +1,5 @@
 Author:
-Vasiliy Pogoreliy, vasiliy.6393@gmail.com
+Vasiliy Pogoreliy, vasiliy@pogoreliy.tk
 
 The application is written for myself, but if you
 have suggestions, I may issue a version taking into
@@ -26,5 +26,4 @@ tar xvf /path/to/emerzo.tar.gz ./
 
 Launch:
 /some_dir/emerzo.sh
-
 You can also rename the script as needed.
